@@ -20,13 +20,13 @@
 
 [[main]]
   name = "Publications"
-  url = "#pages"
-  weight = 40
+  url = "#publications"
+  weight = 90
   
 [[main]]
   name = "Talks"
-  url = "#pages"
-  weight = 40
+  url = "#talks"
+  weight = 70
 
 [[main]]
   name = "Contact"
