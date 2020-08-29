@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am an MPhil in Physics candidate at the University of Cambridge. My current research interests are based in computational particle physics, specifically in analysing CERN data (currently ATLAS) as a tool to explore beyond-Standard Model procrsses.
+I am an MPhil in Physics candidate at the University of Cambridge. My current research interests are based in computational particle physics, specifically in analysing CERN data (currently ATLAS) as a tool to explore beyond-Standard Model processes.
 
