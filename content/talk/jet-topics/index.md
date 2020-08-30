@@ -23,9 +23,8 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-
 url_slides: "https://docs.google.com/presentation/d/1G7bzMQVZTnDwvn68r2P4fuZyfJIf58LyPQ_efgno8bg/edit?usp=sharing"
-=
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -39,8 +38,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects: []
 
 # Enable math on this page?
 math: true
