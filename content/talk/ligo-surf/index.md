@@ -6,7 +6,7 @@ location: LIGO SURF Summer Research Presentation
 
 
 summary: ""
-abstract: ""
+abstract: "The recent detections of gravitational waves (GWs) by the Laser Interferometer GravitationalWave Observatory (LIGO) have provided researchers with the first opportunities to test general relativity (GR) in the strong-field and highly-dynamical limit. Qualitative tests of the agreement between LIGO’s GW observations and classical GR have already been done; we have carried out more quantitative tests in terms of controlled, parameterized deviations from GR. In this project, we simulate a number of binary black hole (BBH) merger waveforms with known amplitude and phase deviations from those predicted by GR that are governed by the real and imaginary parts, respectively, of a complex parameter λ. We use Bayesian analysis to recover the deviation. We then provide an estimate of the number of GW detections from BBH mergers that are necessary to establish a given deviation from classical GR, notably finding that under 80 events are necessary to determine λ to a precision of 0.025 (a fractional precision of 5% for λ = 0.5)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
