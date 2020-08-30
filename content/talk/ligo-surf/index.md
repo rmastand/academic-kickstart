@@ -1,6 +1,5 @@
 ---
-title: Quantifying Deviations
-from General Relativity
+title: Quantifying Deviations from General Relativity
 event: LIGO SURF Presentation
 
 location: LIGO SURF Summer Research Presentation
