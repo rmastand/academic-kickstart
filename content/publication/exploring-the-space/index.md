@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Phys. Rev. D*
+publication: *Phys. Rev. D* 101, 034009 (2020)
 
 tags:
 - Source Themes
