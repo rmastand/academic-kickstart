@@ -22,8 +22,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: https://arxiv.org/pdf/1908.08542.pdf
 url_pdf: https://arxiv.org/pdf/1908.08542.pdf
 
 
