@@ -17,14 +17,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the *MIT Undergraduate Research Journal*
+publication: *MIT Undergraduate Research Journal*, Fall 2017
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A1cd3628e-c368-41ce-90a0-87c853f5ffaa#pageNum=1
+url_pdf: https://dcc.ligo.org/public/0142/T1700224/001/Mastandrea_SURF_final_report_v5.pdf
 
 
 # Associated Projects (optional).
