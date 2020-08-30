@@ -2,7 +2,7 @@
 title: Quantifying Deviations from General Relativity
 event: APS New England Section Meeting
 location: University of Rhode Island
-event_url: https://web.uri.edu/physics/apsnes-progam/
+event_url: "https://web.uri.edu/physics/apsnes-progam/"
 
 
 summary: ""
