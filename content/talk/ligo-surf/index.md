@@ -2,6 +2,7 @@
 title: Quantifying Deviations from General Relativity
 event: APS NES
 location: APS New England Section Meeting
+event_url: https://web.uri.edu/physics/apsnes-progam/
 
 
 summary: ""
@@ -20,6 +21,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 url_slides: "https://dcc.ligo.org/public/0142/T1700224/001/Mastandrea_SURF17_presentation.pdf"
+url: https://web.uri.edu/physics/apsnes-progam/
 
 
 # Markdown Slides (optional).
