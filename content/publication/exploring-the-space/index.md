@@ -25,8 +25,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://arxiv.org/pdf/1908.08542.pdf
-
+url_pdf: https://journals.aps.org/prd/pdf/10.1103/PhysRevD.101.034009
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
