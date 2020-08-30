@@ -7,7 +7,7 @@ location: BOOST 2019 Physics Workshop
 
 
 summary: ""
-abstract: ""
+abstract: "We investigate jet substructure at the Large Hadron Collider with the CMS Open Data. We analyze a sample of jets from 2.3/fb of 7 TeV proton-proton collisions detected by the CMS experiment in 2011 with the companion simulated (both pre- and post-detector) datasets, focusing on a high-quality sample of jets with transverse momenta restricted to between 375 and 425 GeV. We further move to a specific analysis of jet classification using the unsupervised algorithm of jet topics to provide a new way of defining the categories of quark and gluon jets through their observable properties."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
