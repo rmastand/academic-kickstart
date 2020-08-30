@@ -3,7 +3,7 @@ title: Analyzing CMS Open Collider Data through Topic Modeling
 event: BOOST 2019 Physics Workshop
 event_url: https://indico.cern.ch/event/753914/
 
-location: BOOST 2019 Physics Workshop
+location: Massachusetts Institute of Technology
 
 
 summary: ""
