@@ -3,7 +3,7 @@ title: Analyzing CMS Open Collider Data through Topic Modeling
 event: BOOST 2019 Physics Workshop
 event_url: https://indico.cern.ch/event/753914/
 
-location: Massachusetts Institute of Technology
+location: BOOST 2019 Physics Workshop
 
 
 summary: ""
@@ -24,19 +24,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_slides: "https://docs.google.com/presentation/d/1G7bzMQVZTnDwvn68r2P4fuZyfJIf58LyPQ_efgno8bg/edit?usp=sharing"
+=
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: jet-topics
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
