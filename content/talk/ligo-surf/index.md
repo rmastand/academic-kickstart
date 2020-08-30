@@ -1,8 +1,7 @@
 ---
 title: Quantifying Deviations from General Relativity
-event: LIGO SURF Presentation
-
-location: LIGO SURF Summer Research Presentation
+event: APS NES
+location: APS New England Section Meeting
 
 
 summary: ""
@@ -10,8 +9,8 @@ abstract: "The recent detections of gravitational waves (GWs) by the Laser Inter
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-08-25T13:00:00Z"
-date_end: "2017-08-25T15:00:00Z"
+date: "2017-10-21T13:00:00Z"
+date_end: "2017-10-21T15:00:00Z"
 all_day: true
 
 
