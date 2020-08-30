@@ -21,5 +21,3 @@ publication: where your title was published
 abstract: the summary of your publication
 ---
 
-title: ffff
-publication_type: 2
