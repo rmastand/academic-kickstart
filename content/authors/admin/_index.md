@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: MPhil candidate in Physics
+role: PhD candidate in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.phy.cam.ac.uk/"
+- name: University of California Berkeley
+  url: "https://physics.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests involve using computational particle physics as a tool to explore beyond-Standard Model processes.
@@ -27,15 +27,18 @@ interests:
 
 education:
   courses:
+  - course: PhD in Physics
+    institution: University of California Berkeley
+    year: 2021-present
   - course: MPhil in Physics
     institution: University of Cambridge
-    year: 2021
+    year: 2020-2021
   - course: MASt in Physics
     institution: University of Cambridge
-    year: 2020
+    year: 2019-2020
   - course: BS in Physics
     institution: Massachusetts Institute of Technology
-    year: 2019
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
