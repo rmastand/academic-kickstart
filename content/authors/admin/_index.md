@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "rrm39@cam.ac.uk".
+  link: '#contact'  # For a direct email link, use "rmastand@berkeley.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rmastand
